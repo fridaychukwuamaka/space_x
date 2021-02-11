@@ -15,5 +15,18 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## PAGES
+## SCREENSHOTS
+![Launcher tab](https://raw.githubusercontent.com/fridaychukwuamaka/space_x/master/assets/screenshot/Screenshot_20210211-180125.png)
+
+
+
+![Upcoming tab](https://raw.githubusercontent.com/fridaychukwuamaka/space_x/master/assets/screenshot/Screenshot_20210211-180129.png)
+
+
+
+![Rockets tab](https://raw.githubusercontent.com/fridaychukwuamaka/space_x/master/assets/screenshot/Screenshot_20210211-180132.png)
+
+
+
+![Rocket details page](https://raw.githubusercontent.com/fridaychukwuamaka/space_x/master/assets/screenshot/Screenshot_20210211-180137.png)
 
